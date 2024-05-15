@@ -4,7 +4,7 @@
 source /opt/ros/$ROS_DISTRO/setup.bash
 
 # source pymoveit2 ws 
-source $PYMOVEIT2/install/local_setup.bash
+source $PYMOVEIT/install/local_setup.bash
 
 # source fanuc packages in current ws
 source install/local_setup.bash
